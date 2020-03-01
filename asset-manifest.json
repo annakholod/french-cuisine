@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/french-cuisine/static/css/main.efd85457.chunk.css",
+    "main.js": "/french-cuisine/static/js/main.5808ab84.chunk.js",
+    "main.js.map": "/french-cuisine/static/js/main.5808ab84.chunk.js.map",
+    "runtime-main.js": "/french-cuisine/static/js/runtime-main.d6c371ac.js",
+    "runtime-main.js.map": "/french-cuisine/static/js/runtime-main.d6c371ac.js.map",
+    "static/js/2.bf07e891.chunk.js": "/french-cuisine/static/js/2.bf07e891.chunk.js",
+    "static/js/2.bf07e891.chunk.js.map": "/french-cuisine/static/js/2.bf07e891.chunk.js.map",
+    "index.html": "/french-cuisine/index.html",
+    "precache-manifest.561abd1f048ce18aa456eef7bfcba328.js": "/french-cuisine/precache-manifest.561abd1f048ce18aa456eef7bfcba328.js",
+    "service-worker.js": "/french-cuisine/service-worker.js",
+    "static/css/main.efd85457.chunk.css.map": "/french-cuisine/static/css/main.efd85457.chunk.css.map",
+    "static/js/2.bf07e891.chunk.js.LICENSE": "/french-cuisine/static/js/2.bf07e891.chunk.js.LICENSE",
+    "static/media/SectionAbout.module.css": "/french-cuisine/static/media/about-4.108d5c02.jpg",
+    "static/media/Header.module.css": "/french-cuisine/static/media/header.98b8e6be.jpg",
+    "static/media/SectionMenu.module.css": "/french-cuisine/static/media/menu-3.81b5cd69.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6c371ac.js",
+    "static/js/2.bf07e891.chunk.js",
+    "static/css/main.efd85457.chunk.css",
+    "static/js/main.5808ab84.chunk.js"
+  ]
+}
