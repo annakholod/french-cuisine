@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d61972282addbb576e919f465b6c3bfc",
+    "revision": "48e7f6b052c7d2b337433238695c73fb",
     "url": "/french-cuisine/index.html"
   },
   {
-    "revision": "2a87d3f3dbaa20a4f554",
-    "url": "/french-cuisine/static/css/main.efd85457.chunk.css"
+    "revision": "2c95ee50b89402f7dd16",
+    "url": "/french-cuisine/static/css/main.02656ac1.chunk.css"
   },
   {
     "revision": "021a398308732be0d505",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/french-cuisine/static/js/2.bf07e891.chunk.js.LICENSE"
   },
   {
-    "revision": "2a87d3f3dbaa20a4f554",
+    "revision": "2c95ee50b89402f7dd16",
     "url": "/french-cuisine/static/js/main.5808ab84.chunk.js"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/french-cuisine/precache-manifest.561abd1f048ce18aa456eef7bfcba328.js"
+  "/french-cuisine/precache-manifest.a92567c0565958438457ed9c84ad9ac4.js"
 );
 
 self.addEventListener('message', (event) => {
